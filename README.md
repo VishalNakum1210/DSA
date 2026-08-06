@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VishalNakum1210/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/VishalNakum1210/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VishalNakum1210/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishalNakum1210/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VishalNakum1210/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/VishalNakum1210/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
