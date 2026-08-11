@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/VishalNakum1210/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/VishalNakum1210/DSA/tree/master/0283-move-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/VishalNakum1210/DSA/tree/master/0766-toeplitz-matrix) |
+| [1089-duplicate-zeros](https://github.com/VishalNakum1210/DSA/tree/master/1089-duplicate-zeros) |
 | [1748-sum-of-unique-elements](https://github.com/VishalNakum1210/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VishalNakum1210/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VishalNakum1210/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VishalNakum1210/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishalNakum1210/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/VishalNakum1210/DSA/tree/master/0283-move-zeroes) |
+| [1089-duplicate-zeros](https://github.com/VishalNakum1210/DSA/tree/master/1089-duplicate-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
