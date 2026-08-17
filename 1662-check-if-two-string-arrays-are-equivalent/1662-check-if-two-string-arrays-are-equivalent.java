@@ -1,19 +1,14 @@
 class Solution {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
-        StringBuilder sb = new StringBuilder();
-        for(String val : word1){
-            sb.append(val);
+        String a = "";
+        String b = "";
+
+        for(int i = 0; i < word1.length; i++){
+            a = a.concat(word1[i]);
         }
-        int count = 0;
-        for(String val : word2){
-            for(int i = 0; i < val.length(); i++){
-                if(count >= sb.length() || sb.charAt(count) != val.charAt(i)){
-                    return false;
-                }
-                count++;
-            }
+        for(int i = 0; i < word2.length; i++){
+            b = b.concat(word2[i]);
         }
-        if(count < sb.length()) return false;
-        return true;
+        return a.equals(b);
     }
 }
