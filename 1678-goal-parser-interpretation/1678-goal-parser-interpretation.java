@@ -4,6 +4,7 @@ class Solution {
         for (int i = 0; i < command.length(); i++) {
             if (i < command.length() - 1 && command.charAt(i) == '(' && command.charAt(i + 1) == ')') {
                 sb.append("o");
+                i++;
             }
             else{
                 if(command.charAt(i) == '(' || command.charAt(i) == ')'){
