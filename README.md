@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VishalNakum1210/DSA/tree/master/0283-move-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/VishalNakum1210/DSA/tree/master/0766-toeplitz-matrix) |
 | [1089-duplicate-zeros](https://github.com/VishalNakum1210/DSA/tree/master/1089-duplicate-zeros) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VishalNakum1210/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/VishalNakum1210/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VishalNakum1210/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VishalNakum1210/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/VishalNakum1210/DSA/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/VishalNakum1210/DSA/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/VishalNakum1210/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VishalNakum1210/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/VishalNakum1210/DSA/tree/master/1678-goal-parser-interpretation) |
 | [2129-capitalize-the-title](https://github.com/VishalNakum1210/DSA/tree/master/2129-capitalize-the-title) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishalNakum1210/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
