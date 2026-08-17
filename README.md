@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VishalNakum1210/DSA/tree/master/0344-reverse-string) |
 | [0824-goat-latin](https://github.com/VishalNakum1210/DSA/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/VishalNakum1210/DSA/tree/master/0917-reverse-only-letters) |
+| [1108-defanging-an-ip-address](https://github.com/VishalNakum1210/DSA/tree/master/1108-defanging-an-ip-address) |
 | [2129-capitalize-the-title](https://github.com/VishalNakum1210/DSA/tree/master/2129-capitalize-the-title) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishalNakum1210/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
