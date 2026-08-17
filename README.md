@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/VishalNakum1210/DSA/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/VishalNakum1210/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/VishalNakum1210/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VishalNakum1210/DSA/tree/master/0344-reverse-string) |
 | [0824-goat-latin](https://github.com/VishalNakum1210/DSA/tree/master/0824-goat-latin) |
