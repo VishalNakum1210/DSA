@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/VishalNakum1210/DSA/tree/master/0007-reverse-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VishalNakum1210/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VishalNakum1210/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/VishalNakum1210/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VishalNakum1210/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/VishalNakum1210/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VishalNakum1210/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/VishalNakum1210/DSA/tree/master/1678-goal-parser-interpretation) |
+| [1903-largest-odd-number-in-string](https://github.com/VishalNakum1210/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2129-capitalize-the-title](https://github.com/VishalNakum1210/DSA/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/VishalNakum1210/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishalNakum1210/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/VishalNakum1210/DSA/tree/master/0134-gas-station) |
+| [1903-largest-odd-number-in-string](https://github.com/VishalNakum1210/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishalNakum1210/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
