@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/VishalNakum1210/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/VishalNakum1210/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VishalNakum1210/DSA/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/VishalNakum1210/DSA/tree/master/0520-detect-capital) |
 | [0824-goat-latin](https://github.com/VishalNakum1210/DSA/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/VishalNakum1210/DSA/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/VishalNakum1210/DSA/tree/master/1108-defanging-an-ip-address) |
