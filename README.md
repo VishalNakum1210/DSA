@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VishalNakum1210/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VishalNakum1210/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/VishalNakum1210/DSA/tree/master/0283-move-zeroes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/VishalNakum1210/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0766-toeplitz-matrix](https://github.com/VishalNakum1210/DSA/tree/master/0766-toeplitz-matrix) |
 | [1089-duplicate-zeros](https://github.com/VishalNakum1210/DSA/tree/master/1089-duplicate-zeros) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VishalNakum1210/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/VishalNakum1210/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishalNakum1210/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VishalNakum1210/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/VishalNakum1210/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VishalNakum1210/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
 |  |
