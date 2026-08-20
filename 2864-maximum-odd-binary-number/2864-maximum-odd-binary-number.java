@@ -5,15 +5,15 @@ class Solution {
         for(int i = 0; i < s.length(); i++){
             if(s.charAt(i) == '1'){
                 count++;
+                sb.append('1');
             }
         }
-        for(int i = 0; i < s.length() -1; i++){
-            if(count > 1){
-                sb.append('1');
-                count--;
-            }else{
+        if(count == 0){
+            return s;
+        }
+        sb.deleteCharAt(count - 1);
+        for(int i = count-1; i < s.length() -1; i++){
                 sb.append('0');
-            }
         }
         sb.append('1');
         return sb.toString();
