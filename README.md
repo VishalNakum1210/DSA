@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/VishalNakum1210/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VishalNakum1210/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/VishalNakum1210/DSA/tree/master/1678-goal-parser-interpretation) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/VishalNakum1210/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1903-largest-odd-number-in-string](https://github.com/VishalNakum1210/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2129-capitalize-the-title](https://github.com/VishalNakum1210/DSA/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/VishalNakum1210/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VishalNakum1210/DSA/tree/master/0344-reverse-string) |
 | [0917-reverse-only-letters](https://github.com/VishalNakum1210/DSA/tree/master/0917-reverse-only-letters) |
 | [1089-duplicate-zeros](https://github.com/VishalNakum1210/DSA/tree/master/1089-duplicate-zeros) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/VishalNakum1210/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## Divide and Conquer
 |  |
 | ------- |
