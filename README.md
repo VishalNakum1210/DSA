@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/VishalNakum1210/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/VishalNakum1210/DSA/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/VishalNakum1210/DSA/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/VishalNakum1210/DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishalNakum1210/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/VishalNakum1210/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/VishalNakum1210/DSA/tree/master/0238-product-of-array-except-self) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VishalNakum1210/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/VishalNakum1210/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VishalNakum1210/DSA/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/VishalNakum1210/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/VishalNakum1210/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/VishalNakum1210/DSA/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VishalNakum1210/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -176,4 +178,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/VishalNakum1210/DSA/tree/master/2390-removing-stars-from-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/VishalNakum1210/DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/VishalNakum1210/DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/VishalNakum1210/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
