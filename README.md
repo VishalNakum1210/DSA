@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VishalNakum1210/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/VishalNakum1210/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VishalNakum1210/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/VishalNakum1210/DSA/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/VishalNakum1210/DSA/tree/master/0766-toeplitz-matrix) |
 | [1089-duplicate-zeros](https://github.com/VishalNakum1210/DSA/tree/master/1089-duplicate-zeros) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VishalNakum1210/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishalNakum1210/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VishalNakum1210/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VishalNakum1210/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/VishalNakum1210/DSA/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VishalNakum1210/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
 |  |
