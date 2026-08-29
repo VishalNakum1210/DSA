@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VishalNakum1210/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishalNakum1210/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VishalNakum1210/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VishalNakum1210/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VishalNakum1210/DSA/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/VishalNakum1210/DSA/tree/master/0134-gas-station) |
 | [1903-largest-odd-number-in-string](https://github.com/VishalNakum1210/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2864-maximum-odd-binary-number](https://github.com/VishalNakum1210/DSA/tree/master/2864-maximum-odd-binary-number) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VishalNakum1210/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishalNakum1210/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/VishalNakum1210/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VishalNakum1210/DSA/tree/master/0088-merge-sorted-array) |
