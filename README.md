@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VishalNakum1210/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VishalNakum1210/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/VishalNakum1210/DSA/tree/master/3731-find-missing-elements) |
+| [3861-minimum-capacity-box](https://github.com/VishalNakum1210/DSA/tree/master/3861-minimum-capacity-box) |
 ## Matrix
 |  |
 | ------- |
