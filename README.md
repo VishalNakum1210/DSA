@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VishalNakum1210/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/VishalNakum1210/DSA/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/VishalNakum1210/DSA/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/VishalNakum1210/DSA/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/VishalNakum1210/DSA/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/VishalNakum1210/DSA/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/VishalNakum1210/DSA/tree/master/1108-defanging-an-ip-address) |
@@ -232,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/VishalNakum1210/DSA/tree/master/0141-linked-list-cycle) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/VishalNakum1210/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
