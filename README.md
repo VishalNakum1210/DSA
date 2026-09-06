@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VishalNakum1210/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/VishalNakum1210/DSA/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/VishalNakum1210/DSA/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/VishalNakum1210/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/VishalNakum1210/DSA/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/VishalNakum1210/DSA/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/VishalNakum1210/DSA/tree/master/0917-reverse-only-letters) |
