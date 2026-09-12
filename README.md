@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/VishalNakum1210/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VishalNakum1210/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VishalNakum1210/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VishalNakum1210/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3731-find-missing-elements](https://github.com/VishalNakum1210/DSA/tree/master/3731-find-missing-elements) |
 | [3861-minimum-capacity-box](https://github.com/VishalNakum1210/DSA/tree/master/3861-minimum-capacity-box) |
 ## Matrix
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/VishalNakum1210/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/VishalNakum1210/DSA/tree/master/0766-toeplitz-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VishalNakum1210/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VishalNakum1210/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/VishalNakum1210/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/VishalNakum1210/DSA/tree/master/0389-find-the-difference) |
 | [1748-sum-of-unique-elements](https://github.com/VishalNakum1210/DSA/tree/master/1748-sum-of-unique-elements) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VishalNakum1210/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishalNakum1210/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/VishalNakum1210/DSA/tree/master/3731-find-missing-elements) |
 ## Math
