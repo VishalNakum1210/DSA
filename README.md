@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/VishalNakum1210/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/VishalNakum1210/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2864-maximum-odd-binary-number](https://github.com/VishalNakum1210/DSA/tree/master/2864-maximum-odd-binary-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishalNakum1210/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VishalNakum1210/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VishalNakum1210/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/VishalNakum1210/DSA/tree/master/3870-count-commas-in-range) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/VishalNakum1210/DSA/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/VishalNakum1210/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/VishalNakum1210/DSA/tree/master/2864-maximum-odd-binary-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishalNakum1210/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishalNakum1210/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/VishalNakum1210/DSA/tree/master/0134-gas-station) |
 | [1903-largest-odd-number-in-string](https://github.com/VishalNakum1210/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2864-maximum-odd-binary-number](https://github.com/VishalNakum1210/DSA/tree/master/2864-maximum-odd-binary-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishalNakum1210/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishalNakum1210/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
