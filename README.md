@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/VishalNakum1210/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishalNakum1210/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VishalNakum1210/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/VishalNakum1210/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VishalNakum1210/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/VishalNakum1210/DSA/tree/master/3870-count-commas-in-range) |
 ## String
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishalNakum1210/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VishalNakum1210/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishalNakum1210/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/VishalNakum1210/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/VishalNakum1210/DSA/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
