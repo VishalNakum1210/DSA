@@ -1,44 +1,29 @@
 class Solution {
     public int maximumProduct(int[] nums) {
-        int len = nums.length-1;
-        if(len != 2)
-            marge(nums, 0, len);
-        return Math.max(nums[len]*nums[len-1]*nums[len-2], nums[0]*nums[1]*nums[len]);
-    }
-    public void marge(int[] nums, int low, int high){
-        if(low < high){
-            int mid = (low + high) / 2;
-
-            marge(nums, low, mid);
-            marge(nums, mid+1, high);
-
-            margeSort(nums, low, mid, high);
-        }
-    }
-
-    public void margeSort(int[] nums, int low, int mid, int high){
-        int i = low;
-        int j = mid+1;
-        int k = low;
-        int[] temp = new int[nums.length];
-
-        while(i <= mid && j <= high){
-            if(nums[i] < nums[j]){
-                temp[k++] = nums[i++];
+        int l = nums.length;
+        int ma1 = Integer.MIN_VALUE;
+        int ma2 = Integer.MIN_VALUE;
+        int ma3 = Integer.MIN_VALUE;
+        int mi1 = Integer.MAX_VALUE;
+        int mi2 = Integer.MAX_VALUE;
+        for (int n: nums) {
+            if (n > ma1) {
+                ma3 = ma2;
+                ma2 = ma1;
+                ma1 = n;
+            } else if (n > ma2) {
+                ma3 = ma2;
+                ma2 = n;
+            } else if (n > ma3) {
+                ma3 = n;
             }
-            else{
-                temp[k++] = nums[j++];
+            if (n < mi1) {
+                mi2 = mi1;
+                mi1 = n;
+            } else if (n < mi2) {
+                mi2 = n;
             }
         }
-
-        while(i <= mid){
-            temp[k++] = nums[i++];
-        }
-        while(j <= high){
-            temp[k++] = nums[j++];
-        }
-
-        for(int l = low; l <= high; l++)
-            nums[l] = temp[l];
+        return Math.max(mi1 * mi2 * ma1,  ma1 * ma2 * ma3);
     }
 }
