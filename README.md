@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VishalNakum1210/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/VishalNakum1210/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VishalNakum1210/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/VishalNakum1210/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/VishalNakum1210/DSA/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/VishalNakum1210/DSA/tree/master/0766-toeplitz-matrix) |
 | [1089-duplicate-zeros](https://github.com/VishalNakum1210/DSA/tree/master/1089-duplicate-zeros) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VishalNakum1210/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VishalNakum1210/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/VishalNakum1210/DSA/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/VishalNakum1210/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VishalNakum1210/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VishalNakum1210/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/VishalNakum1210/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VishalNakum1210/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/VishalNakum1210/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/VishalNakum1210/DSA/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/VishalNakum1210/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishalNakum1210/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VishalNakum1210/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishalNakum1210/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
