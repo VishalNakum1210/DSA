@@ -1,29 +1,19 @@
 class Solution {
     public String modifyString(String s) {
-        StringBuilder sb = new StringBuilder(s);
-
-        for(int i = 0; i < s.length(); i++){
-            if(s.charAt(i) == '?'){
-                char ch = 'a';
-                if(s.length() == 1){
-                    sb.setCharAt(i, ch);
-                }
-                else if(i == 0){
-                    while(ch == sb.charAt(i+1)){
-                        ch++;
-                    }
-                }else if(i == s.length()-1){
-                    while(ch == sb.charAt(i-1)){
-                        ch++;
-                    }
-                }else{
-                    while(ch == sb.charAt(i+1) || ch == sb.charAt(i-1)){
-                        ch++;
-                    }
-                }
-                sb.setCharAt(i, ch);
+        char[] arr = s.toCharArray();
+        int n = s.length();
+        for (int i = 0; i < n; i++) {
+            if (arr[i] == '?') {
+                char left = (i > 0) ? arr[i - 1] : ' ';
+                char right = (i + 1 < n) ? arr[i + 1] : ' ';
+                if (left != 'a' && right != 'a')
+                    arr[i] = 'a';
+                else if (left != 'b' && right != 'b')
+                    arr[i] = 'b';
+                else
+                    arr[i] = 'c';
             }
         }
-        return sb.toString();
+        return new String(arr);
     }
 }
