@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/VishalNakum1210/DSA/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/VishalNakum1210/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/VishalNakum1210/DSA/tree/master/1528-shuffle-string) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/VishalNakum1210/DSA/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VishalNakum1210/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/VishalNakum1210/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/VishalNakum1210/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
