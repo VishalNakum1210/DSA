@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/VishalNakum1210/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/VishalNakum1210/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/VishalNakum1210/DSA/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/VishalNakum1210/DSA/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VishalNakum1210/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishalNakum1210/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/VishalNakum1210/DSA/tree/master/0704-binary-search) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VishalNakum1210/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/VishalNakum1210/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/VishalNakum1210/DSA/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/VishalNakum1210/DSA/tree/master/0500-keyboard-row) |
 | [1748-sum-of-unique-elements](https://github.com/VishalNakum1210/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VishalNakum1210/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishalNakum1210/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VishalNakum1210/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/VishalNakum1210/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/VishalNakum1210/DSA/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/VishalNakum1210/DSA/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/VishalNakum1210/DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/VishalNakum1210/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/VishalNakum1210/DSA/tree/master/0796-rotate-string) |
