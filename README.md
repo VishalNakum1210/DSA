@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VishalNakum1210/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VishalNakum1210/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VishalNakum1210/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2594-minimum-time-to-repair-cars](https://github.com/VishalNakum1210/DSA/tree/master/2594-minimum-time-to-repair-cars) |
 | [3731-find-missing-elements](https://github.com/VishalNakum1210/DSA/tree/master/3731-find-missing-elements) |
 | [3861-minimum-capacity-box](https://github.com/VishalNakum1210/DSA/tree/master/3861-minimum-capacity-box) |
 ## Matrix
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/VishalNakum1210/DSA/tree/master/0704-binary-search) |
 | [1095-find-in-mountain-array](https://github.com/VishalNakum1210/DSA/tree/master/1095-find-in-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VishalNakum1210/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2594-minimum-time-to-repair-cars](https://github.com/VishalNakum1210/DSA/tree/master/2594-minimum-time-to-repair-cars) |
 ## Enumeration
 |  |
 | ------- |
