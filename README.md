@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VishalNakum1210/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VishalNakum1210/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/VishalNakum1210/DSA/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/VishalNakum1210/DSA/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishalNakum1210/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VishalNakum1210/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VishalNakum1210/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VishalNakum1210/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/VishalNakum1210/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/VishalNakum1210/DSA/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/VishalNakum1210/DSA/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/VishalNakum1210/DSA/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/VishalNakum1210/DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/VishalNakum1210/DSA/tree/master/0709-to-lower-case) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/VishalNakum1210/DSA/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/VishalNakum1210/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Bucket Sort
 |  |
